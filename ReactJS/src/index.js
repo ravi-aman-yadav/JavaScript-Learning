@@ -8,6 +8,7 @@ import Home from"./Pages/Home";
 import Blogs from "./Pages/Blogs"
 import Contact from "./Pages/Contact";
 import Nopage from "./Pages/Nopage";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function AppRouter() {
   return(
